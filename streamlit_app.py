@@ -47,7 +47,7 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
-st.image("q3.png", caption="حجم الشركات", use_column_width=True)
+st.image("q4.png", caption="حجم الشركات", use_column_width=True)
 
 # المحطة الرابعة: الراتب المتوقع
 st.markdown(
@@ -59,7 +59,7 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
-st.image("q4.png", caption="توقعات الراتب للخريجين الجدد", use_column_width=True)
+st.image("q3.png", caption="توقعات الراتب للخريجين الجدد", use_column_width=True)
 
 # المحطة الخامسة: التفكير في الانتقال
 st.markdown(
@@ -71,7 +71,6 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
-st.image("q5.png", caption="فرص الخريجين مقابل أصحاب الخبرة", use_column_width=True)
 
 # المحطة الأخيرة: اتخاذ القرار
 st.markdown(
